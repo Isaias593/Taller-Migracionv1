@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CORONEL ZAPA V2.props" />
+</Project>
